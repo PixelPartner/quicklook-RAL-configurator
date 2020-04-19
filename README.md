@@ -4,7 +4,7 @@ This repository is a fork of [elm-3d-scene](https://github.com/ianmackenzie/elm-
 
 It adds an example WebApp to the package's example folder (`examples/RALConfig.js`, transpiled from `examples/RALConfig.elm`  and `examples/RALConfig.html`) that features a **sample WebGL configurator to preview RAL colors on a metal block** including the ability to preview the product in AR (Augmented Reality) with **Apple AR Quicklook**, a feature available on macOS 10.15+ and iOS 12+.
 
-!(Screenshot)[screenshot.jpg]
+![Screenshot](screenshot.jpg)
 
 # Disclaimer:
 
